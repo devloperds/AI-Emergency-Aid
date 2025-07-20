@@ -43,20 +43,6 @@ Your AI-powered personal emergency assistant application.
 - State Managemen: React Hooks with Local Storage
 - Deployment: Vercel
 
-# Project Structure
-`
-├── components/          # React components
-│   ├── Dashboard.tsx    # Main dashboard
-│   ├── EmergencyFlow.tsx # Emergency response workflow
-│   ├── HospitalsForm.tsx # Hospital management
-│   ├── MedicationsForm.tsx # Medication management
-│   ├── ProfileForm.tsx  # User profile editing
-│   └── icons.tsx        # Icon components
-├── hooks/               # Custom React hooks
-│   └── useLocalStorage.ts # Local storage hook
-├── App.tsx              # Main application component
-├── types.ts             # TypeScript type definitions
-└── index.tsx            # Application entry point`
 
 ## License
 
